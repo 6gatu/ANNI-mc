@@ -1,2 +1,7 @@
 # ANNI-mc
 マインクラフトのshot bowサーバーにあるannihilathionを再現したskript
+
+導入方法
+skriptプラグインとskrayfallをサーバーに導入
+コードをダウンロード
+起動してscriptフォルダーにダウンロードしたものを追加
